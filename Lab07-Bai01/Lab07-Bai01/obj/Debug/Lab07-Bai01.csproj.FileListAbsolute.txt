@@ -1,0 +1,6 @@
+D:\Lab07-Bai01\Lab07-Bai01\bin\Debug\Lab07-Bai01.exe.config
+D:\Lab07-Bai01\Lab07-Bai01\bin\Debug\Lab07-Bai01.exe
+D:\Lab07-Bai01\Lab07-Bai01\bin\Debug\Lab07-Bai01.pdb
+D:\Lab07-Bai01\Lab07-Bai01\obj\Debug\Lab07-Bai01.csprojResolveAssemblyReference.cache
+D:\Lab07-Bai01\Lab07-Bai01\obj\Debug\Lab07-Bai01.exe
+D:\Lab07-Bai01\Lab07-Bai01\obj\Debug\Lab07-Bai01.pdb

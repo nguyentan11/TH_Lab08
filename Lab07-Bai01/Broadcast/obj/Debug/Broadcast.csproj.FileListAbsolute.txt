@@ -1,0 +1,5 @@
+D:\Lab07-Bai01\Broadcast\bin\Debug\Broadcast.exe.config
+D:\Lab07-Bai01\Broadcast\bin\Debug\Broadcast.exe
+D:\Lab07-Bai01\Broadcast\bin\Debug\Broadcast.pdb
+D:\Lab07-Bai01\Broadcast\obj\Debug\Broadcast.exe
+D:\Lab07-Bai01\Broadcast\obj\Debug\Broadcast.pdb
